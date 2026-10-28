@@ -100,4 +100,4 @@ An executable Python reference is available at [`examples/reference.py`](./examp
 
 ## Cite
 
-Brajer, J. (Execution Contract). Zenodo. https://doi.org/10.5281/zenodo.23718099 · ORCID [0009-0004-0113-1341](https://orcid.org/0009-0004-0113-1341)
+Brajer, J. (2026). *Execution Contract by John Brajer* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23718099 · ORCID [0009-0004-0113-1341](https://orcid.org/0009-0004-0113-1341)
