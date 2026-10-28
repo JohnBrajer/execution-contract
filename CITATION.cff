@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Execution Contract by John Brajer"
 abstract: "Execution Contract by John Brajer: outcome-oriented execution, observable completion, verification, evidence, and causal scope for agents."
 type: software
+doi: "10.5281/zenodo.23718099"
 authors:
   - family-names: Brajer
     given-names: John
